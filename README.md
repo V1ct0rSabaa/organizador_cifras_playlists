@@ -34,7 +34,7 @@ Não fazem parte do escopo descrito nos requisitos fornecidos funcionalidades co
 | JUnit 6 | Testes automatizados |
 | Mockito 5 | Isolamento e simulação de dependências nos testes |
 
-A stack de testes definida utiliza **JUnit + Mockito** para testes unitários e **Spring Boot Test + MongoDB** para testes de integração. fileciteturn0file0L125-L131
+A stack de testes definida utiliza **JUnit + Mockito** para testes unitários e **Spring Boot Test + MongoDB** para testes de integração.
 
 ### Modelo de dados
 
